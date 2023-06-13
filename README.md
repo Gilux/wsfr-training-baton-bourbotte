@@ -24,5 +24,5 @@ Comment le résoudre ?
 - Cloner le repo, ou le [lancer en Codespace](https://github.com/features/codespaces).
 - Lancer `npm test`. Quelques tests doivent passer (types de retours, …), mais ceux qui dépendent de données dynamiques ne passent pas. Implémenter correctement les 4 méthodes fera tout passer au vert.
     - Dans le contexte des finales nationales, le jury aura un 2e jeu de données pour éviter que vous ne codiez les retours en dur 🧐
-- Vous pouvez modifier la classe comme vous le souhaitez en ajoutant des méthodes par exemple, mais il faut que les 4 fonctions qui sont testées ne bougent pas.
+- Vous pouvez modifier la classe comme vous le souhaitez en ajoutant des méthodes par exemple, mais il faut que les 4 fonctions qui sont testées gardent les mêmes paramètres en entrée et en sortie.
 - Une configuration de base est donnée pour la validation des types. Vous pouvez l’adapter pour utiliser réellement TypeScript mais ce n’est pas l’objet de l’exercice.
