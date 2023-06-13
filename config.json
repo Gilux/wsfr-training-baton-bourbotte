@@ -1,0 +1,13 @@
+{
+  "id": "yoyoyo",
+  "type": "js",
+  "localHistory": false,
+  "showPoints": false,
+  "source": "./src/**.js",
+  "groups": [
+    {
+      "match": "yoyoyo.+",
+      "displayName": "Replace Strings"
+    }
+  ]
+}
