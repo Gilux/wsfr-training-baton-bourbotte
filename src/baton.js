@@ -61,7 +61,7 @@ class BatonBourbotte {
   batonHolderAtGivenDate = (date) => {
     return {
       id: "WRONG_CLUB",
-      name: "Not the good club",
+      name: "Not the right club",
     };
   };
 
